@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-1e95e": {
+      "hosting": {
+        "CRUDfb": [
+          "crud-1e95e"
+        ]
+      }
+    }
+  }
+}
